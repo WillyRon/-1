@@ -1,0 +1,11 @@
+C:\Users\Skvad\Desktop\Учеба\Параллельные вычисления\1\Matrix\Matrix\bin\Debug\Matrix.exe.config
+C:\Users\Skvad\Desktop\Учеба\Параллельные вычисления\1\Matrix\Matrix\bin\Debug\Matrix.exe
+C:\Users\Skvad\Desktop\Учеба\Параллельные вычисления\1\Matrix\Matrix\bin\Debug\Matrix.pdb
+C:\Users\Skvad\Desktop\Учеба\Параллельные вычисления\1\Matrix\Matrix\obj\Debug\Matrix.csproj.AssemblyReference.cache
+C:\Users\Skvad\Desktop\Учеба\Параллельные вычисления\1\Matrix\Matrix\obj\Debug\Matrix.csproj.SuggestedBindingRedirects.cache
+C:\Users\Skvad\Desktop\Учеба\Параллельные вычисления\1\Matrix\Matrix\obj\Debug\Matrix.Form1.resources
+C:\Users\Skvad\Desktop\Учеба\Параллельные вычисления\1\Matrix\Matrix\obj\Debug\Matrix.Properties.Resources.resources
+C:\Users\Skvad\Desktop\Учеба\Параллельные вычисления\1\Matrix\Matrix\obj\Debug\Matrix.csproj.GenerateResource.cache
+C:\Users\Skvad\Desktop\Учеба\Параллельные вычисления\1\Matrix\Matrix\obj\Debug\Matrix.csproj.CoreCompileInputs.cache
+C:\Users\Skvad\Desktop\Учеба\Параллельные вычисления\1\Matrix\Matrix\obj\Debug\Matrix.exe
+C:\Users\Skvad\Desktop\Учеба\Параллельные вычисления\1\Matrix\Matrix\obj\Debug\Matrix.pdb
