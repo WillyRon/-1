@@ -1,0 +1,11 @@
+C:\Users\Skvad\Desktop\Учеба\Параллельные вычисления\2\Chat.Client\Chat.Client\bin\Debug\Chat.Client.exe.config
+C:\Users\Skvad\Desktop\Учеба\Параллельные вычисления\2\Chat.Client\Chat.Client\bin\Debug\Chat.Client.exe
+C:\Users\Skvad\Desktop\Учеба\Параллельные вычисления\2\Chat.Client\Chat.Client\bin\Debug\Chat.Client.pdb
+C:\Users\Skvad\Desktop\Учеба\Параллельные вычисления\2\Chat.Client\Chat.Client\obj\Debug\Chat.Client.csproj.AssemblyReference.cache
+C:\Users\Skvad\Desktop\Учеба\Параллельные вычисления\2\Chat.Client\Chat.Client\obj\Debug\Chat.Client.csproj.SuggestedBindingRedirects.cache
+C:\Users\Skvad\Desktop\Учеба\Параллельные вычисления\2\Chat.Client\Chat.Client\obj\Debug\Chat.Client.Form1.resources
+C:\Users\Skvad\Desktop\Учеба\Параллельные вычисления\2\Chat.Client\Chat.Client\obj\Debug\Chat.Client.Properties.Resources.resources
+C:\Users\Skvad\Desktop\Учеба\Параллельные вычисления\2\Chat.Client\Chat.Client\obj\Debug\Chat.Client.csproj.GenerateResource.cache
+C:\Users\Skvad\Desktop\Учеба\Параллельные вычисления\2\Chat.Client\Chat.Client\obj\Debug\Chat.Client.csproj.CoreCompileInputs.cache
+C:\Users\Skvad\Desktop\Учеба\Параллельные вычисления\2\Chat.Client\Chat.Client\obj\Debug\Chat.Client.exe
+C:\Users\Skvad\Desktop\Учеба\Параллельные вычисления\2\Chat.Client\Chat.Client\obj\Debug\Chat.Client.pdb
